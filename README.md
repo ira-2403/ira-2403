@@ -3,7 +3,7 @@
 - 🌱 I have currently finished python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 email - samriddhishaw123@gmail.com
-- 😄 Pronouns: sum-ri-dhi
+- 😄 Pronouns: she/her
 
 <!---
 ira-2403/ira-2403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
