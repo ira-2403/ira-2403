@@ -33,10 +33,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ira-2403&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=ira-2403&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
+  <img src="https://streak-stats.demolab.com?user=ira-2403&theme=dracula&hide_border=true" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ira-2403&theme=dracula&no-frame=true&margin-w=10" height="150" />
 </div>
-
+s
 ###
 
 <p align="center">
