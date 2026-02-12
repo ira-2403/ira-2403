@@ -32,12 +32,12 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=ira-2403&theme=dracula&hide_border=true" height="150" />
   <img src="https://github-profile-trophy.vercel.app/?username=ira-2403&theme=dracula&no-frame=true&margin-w=10" height="150" />
 </div>
 s
-###
+### -->
 
 <p align="center">
 python developer building projects in machine learning, backend systems, and algorithms.
